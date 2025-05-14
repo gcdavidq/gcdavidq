@@ -1,7 +1,7 @@
 
 - 👋 Hi, I'm @gcdavidq
 - 👀 I'm interested in Data Science and Cybersecurity
-- 😄 Pronouns: H
+- 😄 Pronouns: HE
 
 
 
